@@ -1,0 +1,13 @@
+{
+	"name": "ProjectDB_DS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ProjectDB_lb",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
